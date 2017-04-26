@@ -10,5 +10,5 @@ A convert + poster project for converting legacy ACCU docs into Medium posts (ma
 Issues
 -------
 
-see [the issues list for current concerns](httpsissues)
+see [the issues list for current concerns](../../issues)
 
